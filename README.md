@@ -7,6 +7,7 @@ Wuhan, China's emerging commercial hub, recently saw an outbreak of a novel coro
 # PROBLEM STATEMENT
 # SIGNIFICANCE OF THE PROPOSED PROJECT
 This data analysis study will shed new light on the country's updates and analyzation of the Corona Virus's impacts. The following people will benefit from this research:
+
 •	Community
 
 This study informs the public about potential solutions and strategies for ensuring their safety and awareness throughout their lives.
