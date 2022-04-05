@@ -31,4 +31,14 @@ This research will let them take immediate action, before the public becomes awa
 This paper discusses the tracking that encompasses and response frameworks to minimize the enlarging number of cases by the virus. Thus, the findings of this study may be utilized to inform future conversations and analysis of effective frameworks employed by governments throughout the world that the Philippine government could adopt for its own system.
 
 # METHODS
+
+The researcher will utilize quantitative data analysis, or drawing computational insights from raw data, as well as qualitative data analysis, such as thematic analysis, to accomplish these goals.
+
+1. Data Requirement Gathering  This procedure includes assessing the topic's importance and determining the type of data necessary to achieve the goals.
+2. Data Collection. This procedure entails locating datasets that are relevant to the subject. We explore other sources of data using the needs we set as a guide.
+3. Data Analysis. This procedure entails gleaning meaningful information from the data. 
+4. Data Interpretation.  This procedure entails summarizing and translating the outcomes of data analysis into meaningful information.
+5. Data Visualization. This method entails displaying data in a graphical way so that people may readily read and comprehend it.
+
+
 # EXPECTED OUTPUT
