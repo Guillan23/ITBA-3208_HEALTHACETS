@@ -34,23 +34,23 @@ This paper discusses the tracking that encompasses and response frameworks to mi
 
 The researcher will utilize quantitative data analysis, or drawing computational insights from raw data, as well as qualitative data analysis, such as thematic analysis, to accomplish these goals.
 
-• Data Requirement Gathering 
+•  Data Requirement Gathering 
 
 This procedure includes assessing the topic's importance and determining the type of data necessary to achieve the goals.
   
-• Data Collection.
+•  Data Collection
 
 This procedure entails locating datasets that are relevant to the subject. We explore other sources of data using the needs we set as a guide. 
 
-•Data Analysis. 
+•  Data Analysis
 
 This procedure entails gleaning meaningful information from the data. 
 
-• Data Interpretation.  
+•  Data Interpretation
 
 This procedure entails summarizing and translating the outcomes of data analysis into meaningful information.
 
-•Data Visualization.
+•  Data Visualization
 
 This method entails displaying data in a graphical way so that people may readily read and comprehend it.
 
