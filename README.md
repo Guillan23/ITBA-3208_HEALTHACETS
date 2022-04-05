@@ -56,3 +56,5 @@ This method entails displaying data in a graphical way so that people may readil
 
 
 # EXPECTED OUTPUT
+
+This inquiry will provide an exploratory look into Covid instances from 2020 to 2021that resulted in the highest number of deaths in the country, as well as information on adjacent legislatures with the most affected families. The datasets or information from the Department of Health (DOH) will be utilized to develop a Covid tracking and a possible outcome, which could aid the Philippines in combating the disease. Filipinos' possibilities getting by and recuperating from Coronavirus will unquestionably improve assuming the methodology suggested by accomplice associations like the World Health Organization (WHO) are taken.
