@@ -6,5 +6,26 @@ Wuhan, China's emerging commercial hub, recently saw an outbreak of a novel coro
 
 # PROBLEM STATEMENT
 # SIGNIFICANCE OF THE PROPOSED PROJECT
+This data analysis study will shed new light on the country's updates and analyzation of the Corona Virus's impacts. The following people will benefit from this research:
+•	Community
+
+This study informs the public about potential solutions and strategies for ensuring their safety and awareness throughout their lives.
+
+•	Students 
+
+Students will benefit immediately from this study since the findings may inspire them to look into data analytics as a means to help their community establish effective Covid tracking and response plans for the lifelong corona virus. They will also be told about their preparations or how to make themselves and their loved ones aware of the situation.
+
+•	Parents 
+
+This study may motivate parents to pursue programs that incorporate teaching to help students cope with Covid's negative effects.
+
+•	Government 
+
+This research will let them take immediate action, before the public becomes aware of the pandemic or the corona virus, by analyzing every single case of the pandemic or the corona virus. The planning process and ideas from established frameworks in the Philippines will help them figure out how to organize, create, and develop the community in a week while maintaining their healthy practices.
+
+•	Future Researchers 
+
+This paper discusses the tracking that encompasses and response frameworks to minimize the enlarging number of cases by the virus. Thus, the findings of this study may be utilized to inform future conversations and analysis of effective frameworks employed by governments throughout the world that the Philippine government could adopt for its own system.
+
 # METHODS
 # EXPECTED OUTPUT
