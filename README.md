@@ -7,6 +7,15 @@ The SARS-CoV-2 virus causes Coronavirus Disease (COVID-19), an infectious diseas
 Wuhan, China's emerging commercial hub, recently saw an outbreak of a novel coronavirus that killed over eighteen hundred people and infected over seventy thousand in the first fifty days of the pandemic. This virus was identified as belonging to the coronavirus family. The Chinese researchers termed the new virus 2019 novel coronavirus (2019-nCov). The virus was called SARS-CoV-2 by the International Committee on Virus Taxonomy (ICTV), and the disease was named COVID-19 by the International Committee on Virus Taxonomy (ICTV). SRAS-CoV (2003) infected 8098 people in 26 countries, with a 9% mortality rate; nevertheless, as of this writing, new corona virus (2019) has infected 120,000 people in 109 countries, with a 2.9 percent mortality rate. It shows that SARS-CoV-2 had a higher transmission rate than SRAS-CoV, which could be attributed to a genetic recombination event at the S protein in SARS-RBD CoV-2's region, which boosted transmission ability. In this review article, the transmission of human coronaviruses is briefly discussed. SARS and MERS are also discussed in terms of infectiousness and biochemical features, with a focus on COVID-19.
 
 # PROBLEM STATEMENT
+
+The Coronavirus is become one of the major cases of disease in most populated country in the world. Covid-19 disease is a latest virus that the worlds are facing. More and more people are suffering from different kind of illness after covid-19 strike and created by the foreign country, after long years of facing coronavirus we find vaccine successful and yet we still worried on how we are going to prevent a more similar virus that still coming. Also on how are we going to detect persons with a similar virus yet many people hate to comply after they feel strange inside their body.
+
+It is clear that corona virus issues are very difficult to manage even if we have successfully created a vaccine. Vaccines that can possibly expired within a month, but still help the body to fight covid-19. Having a lack of technology/devices for certain place still a major issue for government to track viruses that enter out country. Many are still getting inside without a track of government.
+
+All of people should cooperate and pay attention on rules and regulations that recently created to highly maintain a source of incoming virus in a country. For governments and officials they should be more careful on jumping on conclusions on positive symptoms that most likely related but not affected the case which can lead into misunderstanding of reports and data’s.
+
+A Covid Exploration Tracking Synergy helps government and people to track or trace latest numbers of positive in virus. This idea will likely lead to a better updates and reports to prevent errors and miscounts  also to manage how to lessen the upcoming number of cases of virus.
+
 # SIGNIFICANCE OF THE PROPOSED PROJECT
 This data analysis study will shed new light on the country's updates and analyzation of the Corona Virus's impacts. The following people will benefit from this research:
 
