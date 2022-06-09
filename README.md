@@ -69,4 +69,8 @@ This inquiry will provide an exploratory look into Covid instances from 2020 to 
 
 
 # FINAL PRESENTATION
+Video Recording
 https://youtu.be/tpF55ZogsNY 
+
+Live Presentation
+https://youtu.be/k3bb-9S1-Sw 
