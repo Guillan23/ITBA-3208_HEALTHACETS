@@ -67,6 +67,14 @@ This method entails displaying data in a graphical way so that people may readil
 
 This inquiry will provide an exploratory look into Covid instances from 2020 to 2021 that resulted in the highest number of deaths in the country, as well as information on adjacent legislatures with the most affected families. The datasets or information from the Department of Health (DOH) will be utilized to develop a Covid tracking and a possible outcome, which could aid the Philippines in combating the disease. Filipinos' possibilities getting by and recuperating from Coronavirus will unquestionably improve assuming the methodology suggested by accomplice associations like the World Health Organization (WHO) are taken.
 
+# NOTICE
+Some of the data visualizations are not visibile in the Github repository.
+
+In order to see the visualizations:
+1) First download the Interactve Python Notebook files which can be seen in the Codes Folder and the datasets in the Datasets Folder.
+2) Make sure you have Jupyter Notebook Installed and open the .ipynb files
+3) To read the datasets, edit the pandas function read_csv() and put the correct file path as input in the .ipynb files.
+4) Run the program. Now you can see all the data visualizations not present in the Github.
 
 # FINAL PRESENTATION
 Video Recording
